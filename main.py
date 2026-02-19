@@ -10,7 +10,7 @@ import threading
 import requests
 
 # ---------- TELEGRAM CONFIG ----------
-BOT_TOKEN = "8515010900:AAGcf13k4ZcTmFiMMj55g20Lg6qdVac4cvQ"
+BOT_TOKEN = "INI_API_KEY"
 CHAT_ID = "5072631321"
 
 # ---------- GLOBAL UNTUK MOUSE ----------
