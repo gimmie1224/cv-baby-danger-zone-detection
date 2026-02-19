@@ -20,17 +20,17 @@ Proyek ini merupakan implementasi sistem monitoring area terlarang untuk bayi be
 
 ⚙️ Instalasi
 1️⃣ Clone repository
-git clone https://github.com/gimmie1224/cv-baby-danger-zone-detection.git
-cd cv-baby-danger-zone-detection
+- git clone https://github.com/gimmie1224/cv-baby-danger-zone-detection.git
+- cd cv-baby-danger-zone-detection
 
 2️⃣ Buat virtual environment (disarankan)
 Windows:
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 Mac/Linux:
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 3️⃣ Install dependencies
 pip install -r requirements.txt
